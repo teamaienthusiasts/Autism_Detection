@@ -1,0 +1,6 @@
+# To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
+tensorflow==1.14
+Pillow
+streamlit
+azure-cognitiveservices-vision-customvision
+opencv-python-headless
