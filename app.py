@@ -13,7 +13,7 @@ if __name__ == '__main__':
     st.sidebar.header("Help:")
     st.sidebar.info("Please click the '+' sign to expand the sections.")
     st.sidebar.header("Authors:")
-    st.sidebar.warning("AI_Enthusiats")
+    st.sidebar.warning("AI_Enthusiasts")
     st.sidebar.header("Language:")
     st.sidebar.info("Python")
     st.sidebar.header("Packages:")
