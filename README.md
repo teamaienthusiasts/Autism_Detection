@@ -1,4 +1,4 @@
 # Autism_Detection
  Application URL:
- https://share.streamlit.io/aienthusiats2021/autism_detection/main/app.py
+ https://share.streamlit.io/teamaienthusiasts/autism_detection/main/app.py
 
